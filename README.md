@@ -16,7 +16,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sourav-singh-r)
 [![Gmail](https://img.shields.io/badge/Email-souravsingh072%40outlook.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:souravsingh072@outlook.com)
 [![Location](https://img.shields.io/badge/📍_Kolkata,_India-Open_to_Remote-2ea44f?style=for-the-badge)](https://linkedin.com/in/sourav-singh-r)
-[![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/YOUR_GITHUB_USERNAME)
+[![Profile Views](https://komarev.com/ghpvc/?username=souravsingh072&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/souravsingh072)
 
 </div>
 
@@ -153,17 +153,17 @@ open_to:        Full-time | Remote | India & International
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" height="180px"/>
+  <img src="https://github-readme-stats-salesp07.vercel.app/api?username=souravsingh072&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" height="180px"/>
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="180px"/>
+  <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=souravsingh072&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="180px"/>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="60%"/>
+  <img src="https://streak-stats.demolab.com?user=souravsingh072&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="60%"/>
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=4" width="100%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=souravsingh072&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=4" width="100%"/>
 </div>
 
 ---
@@ -172,7 +172,7 @@ open_to:        Full-time | Remote | India & International
 ## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=github-compact&hide_border=true&bg_color=0d1117&color=58A6FF&line=58A6FF&point=ffffff" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=souravsingh072&theme=github-compact&hide_border=true&bg_color=0d1117&color=58A6FF&line=58A6FF&point=ffffff" width="100%"/>
 </div>
 
 ---
